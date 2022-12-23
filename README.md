@@ -1,4 +1,4 @@
-# Better Ping Display - Fabric Edition (1.19.3 Support)
+# Better Ping Display - Fabric Edition
 
 [![](http://cf.way2muchnoise.eu/full_406343_downloads.svg)](https://curseforge.com/minecraft/mc-mods/better-ping-display-fabric) 
 
